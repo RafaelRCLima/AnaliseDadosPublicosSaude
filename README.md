@@ -7,9 +7,9 @@ Dados analisados de acordo com última publicação de 30/06/2020
 
 - Autores: 
 
-[Matheus Henrique Gonçalves Ferreira](github.com/matheushgf)
+[Matheus Henrique Gonçalves Ferreira](https://github.com/matheushgf)
 
-[Rafael Rodrigo Correia de Lima](github.com/RafaelRCLima)
+[Rafael Rodrigo Correia de Lima](https://github.com/RafaelRCLima)
 
 - Ferramentas utilizadas
 
